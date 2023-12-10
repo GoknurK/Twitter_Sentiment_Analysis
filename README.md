@@ -75,11 +75,11 @@ For each of our models, we:
 - Ran a Cross Validation.
 - Analyzed the accuracy score.
 
-We decided to use Multinomial Naive Bayes model as our baseline model. We also tested Logistic Regression, Random Forest, Decision Tree, Gradient Boost, and SGDClassifier models. The top 3 models according to accuracy were Multinomial Naive Bayes, Logistic Regression, and SGD classifer models.
+We decided to use Multinomial Naive Bayes model as our baseline model. We also tested tuned Multinomial Naive Bayes, Logistic Regression, Random Forest, Decision Tree, Gradient Boost, and SGDClassifier models. The top 3 models according to accuracy were Multinomial Naive Bayes, Logistic Regression, and SGD classifer models.
 
 ![multinomialnaivebayes](image/Multinomial_Naive_Bayes_model.png)
 
-__Result__: Our baseline model, _Multinomial Naive Bayes model_, produced the highest score with 76% accuracy score, while the Logistic Regression and the SGD classifier produced 75% and 74% accuracy scores, respectively.
+__Result__: Our tuned baseline model, _Multinomial Naive Bayes model_, produced the highest score with 76% accuracy score, while the Logistic Regression and the SGD classifier produced 75% and 74% accuracy scores, respectively.
 
 
 
@@ -136,6 +136,7 @@ For technical and presentation questions, please contact any of our team members
 
 ## Repository Structure 📂
 
+You are currently reading README.md. The 'apple_twitter-sentiment_analysis.ipynb' contains the Jupyter Notebook that explains the steps for replication. 'apple_twitter_sentiment_presentation.pdf' contains the slide presentations that summarized the important information. 'data' contains our original dataset. 'image' contains the images and graphs we used in this analysis.
 ```bash
 
 ├── data                                     <- Houses original datasets used in this project.
