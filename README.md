@@ -131,8 +131,8 @@ For complete analysis, please view our <a href="apple_twitter_sentiment_analysis
 
 For technical and presentation questions, please contact any of our team members:
 - Goknur Kaya at <a href="mailto:goknurkaya@gmail.com">goknurkaya@gmail.com</a>
-- Andrei Hushcha at <a href="mailto:andrew.hushsca.com">andrew.hushcha@gmail.com</a>
-- Andreas Budhi at <a href="mailto:ab41571.com">ab41571@gmail.com</a>
+- Andrei Hushcha at <a href="mailto:andrew.hushsca@gmail.com">andrew.hushcha@gmail.com</a>
+- Andreas Budhi at <a href="mailto:ab41571@gmail.com">ab41571@gmail.com</a>
 
 
 ## Repository Structure 📂
