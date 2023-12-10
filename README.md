@@ -90,15 +90,15 @@ __Result__: Our baseline model, _Multinomial Naive Bayes model_, produced the hi
 
 Through our analysis of the dataset, we recommend to:
 
-__Enhance External Communication__ 💬
+- __Enhance External Communication__ 💬
 
 The public has a negative opinion on Apple as a company. To remedy this, the marketing department needs to external communication to the customers needs to improve.
 
-__Improve Battery Life for the iPhone__ 🪫
+- __Improve Battery Life for the iPhone__ 🪫
 
 People were concerned about whether the battery for iPhone 5 could withstand the tasks it required to hold. 
 
-__Refine iPad Design with a Slim Profile and Varied Colors__ 🤍🖤🧡💜
+- __Refine iPad Design with a Slim Profile and Varied Colors__ 🤍🖤🧡💜
 
 The public were divided in regards to the design of the iPad, some people like it and some people don't. Therefore, a non-radical improvements to the design should suffice, such as slim and other color options.
 
