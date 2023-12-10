@@ -139,14 +139,14 @@ For technical and presentation questions, please contact any of our team members
 
 ```bash
 
-├── Data                                    <- Dataset file used in this project
+├── Data                                     <- Dataset file used in this project
 
-├── Images                                  <- Images and Graphs used in this project obtained from external and internal sources
+├── Images                                   <- Images and Graphs used in this project obtained from external and internal sources
 
-├── .gitignore                              <- Contains list of files to be ignored from GitHub
+├── .gitignore                               <- Contains list of files to be ignored from GitHub
 
-├── apple_twitter_sentiment_analysis.ipynb  <- Jupyter Notebook of the project, containing code and analysis
+├── apple_twitter_sentiment_analysis.ipynb   <- Jupyter Notebook of the project, containing code and analysis
 
 ├── apple_twitter_sentiment_presentation.pdf <- Presentation file of the project
 
-└── README.md   <- Jupyter notebook of the project containing codes and analysis
+└── README.md                                <- Jupyter notebook of the project containing codes and analysis
