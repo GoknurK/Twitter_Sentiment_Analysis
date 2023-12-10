@@ -14,9 +14,8 @@ Can we perform twitter sentiment analysis to help our client, Apple, to improve 
 ## Data Understanding 🧐
 
 The original dataset:
-- Contained 9023 observations.
 - Was obtained from CrowdFlower.
-- Consisted of 9093 tweets made during technology conference in SXSW (South by Southwest) festival in 2013.
+- Consisted of 9023 tweets made during technology conference in SXSW (South by Southwest) festival in 2013.
 - Consisted of mentions of both Google and Apple.
 - Also included the brand the tweets mentioned and the sentiment label of the tweets.
 
